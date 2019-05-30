@@ -1,2 +1,2 @@
-# nagios-event-manager
-Nagios compatible event handler written in golang
+# nagios-alert-manager
+Nagios compatible alert handler written in golang
